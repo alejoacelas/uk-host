@@ -2,6 +2,11 @@
 
 All orgs below are A-rated Skilled Worker sponsors on the Home Office register of 9 Nov 2026. The full list of ~80 licensed EA, AI-safety and adjacent orgs, plus ~110 checked and unlicensed, is in [full-list.md](full-list.md).
 
+The [research](research/) folder has the full list of what each org has hosted, incubated, fiscally sponsored or funded:
+- [hubs-ais.md](research/hubs-ais.md): LISA, Arcadia, Meridian, BlueDot.
+- [hosts-ea.md](research/hosts-ea.md): Rethink Priorities, Ambitious Impact, Effective Ventures.
+- [inhouse.md](research/inhouse.md): 80,000 Hours, Coefficient Giving, Founders Pledge, GovAI, Apollo, Forethought, Faculty, Tomoro.
+
 ## What the host has to satisfy
 
 - **Licence:** an A-rated Skilled Worker licence. Global Business Mobility and Charity Worker routes don't cover this hire.
@@ -13,30 +18,31 @@ All orgs below are A-rated Skilled Worker sponsors on the Home Office register o
 
 ## Shortlist
 
-**Hosts that serve other orgs and could run uplift as a contracted service**
+**1. Hosts that already serve other orgs**
 
-| Org (register name) | Why it fits | What could block it |
-|---|---|---|
-| LISA (Safe AI London Ltd) | Hosts and incubates AI-safety orgs and programmes in one London office. Uplift for its resident orgs, sold as projects, fits its role as a hub. | Small charity. It would need funding for the salary and willingness to take on the compliance risk. |
-| Ambitious Impact (Charity Entrepreneurship) | Supports a portfolio of incubated charities. Uplift for AIM staff and its charities fits as programme work. | Global health and animal charities pay less, so the salary may need a grant. |
-| Arcadia Impact | Runs AI-safety programmes (LASR Labs, governance programmes) and incubates projects. | Small, and focused on programmes rather than consulting. |
-| Meridian Impact CIC (Cambridge) | Runs ERA and hosts Cambridge AI-safety projects. Same hub model as LISA. | It's in Cambridge, and small. |
-| Rethink Priorities UK Ltd | Does commissioned work for clients and has a fiscal-sponsorship arm. | The UK entity is small; most of RP is in the US. |
-| Effective Ventures Foundation (UK) | Fiscal host for EA projects. It could host "AI uplift" as a project. | It has been spinning projects out since 2024, so it may not take new ones. |
+| Org (register name) | What it hosts | Why it fits | What could block it |
+|---|---|---|---|
+| LISA (Safe AI London Ltd) | **Office residents:** Apollo Research, BlueDot, IAPS, Workshop Labs, Exona Lab.<br>**Programmes:** ARENA, LASR Labs, Pivotal, Principles of Intelligence (PIBBSS) and Tarbell. | It is building an "Organisation Support" function that gives its resident orgs legal, HR and IT services, and it is hiring for it now. AI tooling is the obvious missing piece. In 2027 it moves to an 82k sq ft building in King's Cross. It offers immigration support. | No current job ad mentions AI. Funding: Coefficient Giving has given it about $4.7M. |
+| Rethink Priorities UK Ltd | **Special Projects, current:** Consultants for Impact, QURI, Insect Institute, Global Challenges Project, Vista Institute, Truthful AI, Centre for AI Security and Access.<br>**Past:** Epoch, Apollo, ERA, Unjournal. | A 4–7 person team runs operations, payroll, hiring and visas for these projects. It handled 6 UK and US visas in 2024. Project staff can be employed through the UK entity. | Most of RP is US-based. Uplift would have to be framed as a service its Special Projects team provides. |
+| Arcadia Impact | **Runs:** LASR Labs, AI Governance Taskforce, an alignment research team.<br>**Sponsors:** Orion AI Governance Initiative, Impact First. | It is the only hub that has advertised AI adoption as a duty: "leading AI adoption … building automations" in a LASR ops role that closed on 25 Oct. | Its ops team serves only Arcadia's own programmes and the two projects it sponsors. |
+| Meridian Impact CIC (Cambridge) | **Sponsors:** ERA Fellowship, Geodesic Research.<br>**Hub:** CAISH, Cambridge Biosecurity Hub, UK AI Forum, EA Cambridge. | Finance and ops staff serve its hosted projects, and it manages £11M in grants. | It's in Cambridge and small. It offers no services to outside orgs. |
+| Ambitious Impact (Charity Entrepreneurship) | **Incubated:** 61 charities, 2019–2026. | It plans to invest "significantly more" in supporting its existing charities, and it is hiring an HR & Finance Associate who "ideally likes automating". | Its ops team is about 3 people, and the charities are separate legal entities. The salary would probably need a grant. |
 
-**Hosts that would hire for their own staff**
+**2. Hosts that would hire for their own staff**
 
-| Org (register name) | Why it fits | What could block it |
-|---|---|---|
-| 80,000 Hours Limited | Large London team with existing demand for AI uplift. | A single-org role. Contract work for other orgs would need 80k's agreement and the project rule above. |
-| Coefficient Giving UK | Biggest EA funder. It has a London entity, and AI enablement is an explicit priority. | Remote-first and US-centred. The UK entity is new (2026). |
-| Centre for the Governance of AI; Apollo Research AI Ltd; Forethought Research; Bluedot Impact Limited | Medium London/Oxford teams where AI tooling matters to the work. | Each would need to create an in-house role. |
-| Founders For Good Ltd. (Founders Pledge) | Large London team. | No sign of an AI-adoption role. |
+| Org (register name) | Notes |
+|---|---|
+| 80,000 Hours Limited | Hosts no outside projects. It already has an AI systems specialist on its advising team. The way in is a staff job. |
+| Centre for the Governance of AI; Forethought Research; Bluedot Impact Limited | No in-house AI-adoption role exists; one would have to be created. BlueDot moved its HQ to San Francisco in 2026. |
+| Founders For Good Ltd. (Founders Pledge) | Advertised an in-house AI Developer job in London (up to £65k), probably closed. |
+| Coefficient Giving UK | Its AI Enablement Manager posting (closes 12 Nov) says it cannot sponsor visas. Its UK entity holds a licence anyway, so it's worth asking whether the role could be UK-based. |
 
-**AI consultancies (not EA-focused)**
+**3. Dropped after research**
 
-| Org (register name) | Why it fits | What could block it |
-|---|---|---|
-| Faculty Science Limited; Tomoro AI LTD | They sell AI adoption and implementation, which is the same work. | Clients are mostly not EA orgs. |
+| Org | Reason |
+|---|---|
+| Effective Ventures | It is winding down and has hosted nothing since CEA left on 1 Oct 2026. |
+| Apollo Research | Became a for-profit public benefit corporation in Jan 2026. It runs no programmes for other orgs. |
+| Faculty; Tomoro AI | Accenture bought Faculty (Mar 2026), and OpenAI is buying Tomoro (May 2026). Neither has EA clients. |
 
-**Unlicensed orgs** that could apply for a licence: MATS, Tarbell, Arb, Convergence, Probably Good, LEEP and others in [full-list.md](full-list.md). An application takes 2–8 weeks for a decision; priority service is about 10 working days for £750 more. Add 1–3 weeks of preparation, plus a UK-based Authorising Officer. That only fits a two-month window if the org starts this month.
+**4. Unlicensed orgs** that could apply for a licence: MATS, Tarbell, Arb, Convergence, Probably Good, LEEP and others in [full-list.md](full-list.md). An application takes 2–8 weeks for a decision; priority service is about 10 working days for £750 more. Add 1–3 weeks of preparation, plus a UK-based Authorising Officer. That only fits a two-month window if the org starts this month.
